@@ -1,4 +1,4 @@
 homestead-rpg
 =============
 
-An ambitious ARPG
+An ambitious ARPG!
